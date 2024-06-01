@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+IT ADDS THE DATA TO THE MEMORY AND WHEN EVER NEW VALUE COMES IT ADDS TO ITS PREVIOUS STORED DATA.
 
 ## How to test
 
-Explain how to use your project
+USER ENTERS THE THE MONTH IN BINARY FROM IN (M0-M3) PINS AND VALUE OF STOOCK WEEKLY (V0-V1) IT ADDS IT TO THE MEMORY AND WHEN EVER NEW VALUE COMES IT ADDS TO ITS PREVIOUS STORED DATA.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+DIP SWITCH, CLOCK, 7 SEGMENT LED DISPLAY.
